@@ -9,5 +9,6 @@ public class Application {
 		Fenetre fenetre= new Fenetre();
 		fenetre.showMe();
 		System.out.println("dsds");
+		System.out.println("sasaaasasa");
 	}
 }
