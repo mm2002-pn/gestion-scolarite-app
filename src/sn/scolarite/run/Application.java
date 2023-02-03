@@ -10,5 +10,7 @@ public class Application {
 		fenetre.showMe();
 		System.out.println("dsds");
 		System.out.println("sasaaasasa");
+		System.out.println("ggg");
+		
 	}
 }
